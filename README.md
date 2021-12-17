@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
 **Hatzen/Hatzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatzen)](https://github.com/Hatzen)  
+&nbsp;&nbsp;  
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Hatzen)](https://github.com/Hatzen)
