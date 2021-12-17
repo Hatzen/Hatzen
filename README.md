@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
@@ -17,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatzen)](https://github.com/Hatzen)  
-&nbsp;&nbsp;  
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Hatzen)](https://github.com/Hatzen)
+
+
+[![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatzen)](https://github.com/Hatzen)  &nbsp;&nbsp;  [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Hatzen)](https://github.com/Hatzen)
